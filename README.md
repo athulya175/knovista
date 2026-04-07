@@ -1,0 +1,1 @@
+The Asset Management System is a full-stack web application designed to efficiently manage and track organizational assets such as laptops, equipment, and other resources. It helps streamline asset allocation, monitoring, and maintenance processes.
